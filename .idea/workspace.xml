@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="507b976c-3784-4aca-8f83-053be9730fcc" name="Default Changelist" comment="" />
+    <list default="true" id="507b976c-3784-4aca-8f83-053be9730fcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +106,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -118,18 +123,29 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1084" />
-    <option name="y" value="133" />
+    <option name="x" value="1181" />
+    <option name="y" value="99" />
     <option name="width" value="1113" />
     <option name="height" value="844" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -138,6 +154,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
@@ -234,7 +251,7 @@
       <updated>1556743225330</updated>
       <workItem from="1556743231948" duration="1527000" />
       <workItem from="1557306590882" duration="5681000" />
-      <workItem from="1557312900150" duration="323000" />
+      <workItem from="1557312900150" duration="1519000" />
     </task>
     <servers />
   </component>
@@ -259,12 +276,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7531000" />
+    <option name="totallyTimeSpent" value="8727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1084" y="133" width="1113" height="844" extended-state="0" />
+    <frame x="1181" y="99" width="1113" height="844" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2288699" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2288699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +298,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
